@@ -1,8 +1,8 @@
 # Android Tv Live Stream
 
-Contact: Saad
-Email: saad@triangeltech.com
-Number: +8801904654712
+Contact: Saad<br>
+Email: saad@triangeltech.com<br>
+Number: +8801904654712<br>
 
 A sample app for Android TV written in Java that utilizes the KenticoCloudDeliveryJavaRxSDK to manage and retrieve content You can register your account for free at https://app.kenticocloud.com.
 
@@ -15,27 +15,27 @@ Open the project in the IDE, let it install all the necessary libraries and tool
 Create a virtual TV device, for example with specifications 1080p, and Android API 25.<br>
 Run the project witht the created TV device as a specified deployment target.<br>
 
-Content Administration
-Navigate to https://app.kenticocloud.com in your browser.
-Sign in with your credentials.
-Manage content in the content administration interface of your sample project.
-You can learn more about content editing with Kentico Cloud in the documentation.
+<b>Content Administration</b><br>
+Navigate to https://app.kenticocloud.com in your browser.<br>
+Sign in with your credentials.<br>
+Manage content in the content administration interface of your sample project.<br>
+You can learn more about content editing with Kentico Cloud in the documentation.<br>
 
-Content Delivery
-In order to utilize your own project instead of the default one, you need to change the KENTICO_CLOUD_PROJECT_ID constant in the AppConfig.java file to the ID of your own project.
+<b>Content Delivery</b><br>
+In order to utilize your own project instead of the default one, you need to change the KENTICO_CLOUD_PROJECT_ID constant in the AppConfig.java file to the ID of your own project.<br>
 The project ID can be found on Kentico Cloud by navigating to Project Settings and then to API Keys
-Application Installation
-Building the project in Android Studio creates an .apk file, located in app\build\outputs\apk\debug.
+Application Installation<br>
+Building the project in Android Studio creates an .apk file, located in app\build\outputs\apk\debug.<br>
 
-The file can be used to install the application on a TV, using the Android Debug Bridge.
+The file can be used to install the application on a TV, using the Android Debug Bridge.<br>
 
-The Developer Mode and Allow USB debugging modes have to be turned on the TV.
+The Developer Mode and Allow USB debugging modes have to be turned on the TV.<br>
 
 By connecting the laptop and the TV with a USB cable and having both of them on the same network, one can install the app:
 
-adb connect <TV_IP_ADDRESS>
+adb connect <TV_IP_ADDRESS><br>
 
-adb install <PATH_TO_.APK_FILE>
+adb install <PATH_TO_.APK_FILE><br>
 
 The TV has to be connected to the Internet in order to retrieve content from Kentico Cloud.
 
