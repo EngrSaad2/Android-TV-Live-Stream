@@ -8,20 +8,20 @@ A sample app for Android TV written in Java that utilizes the KenticoCloudDelive
 
 By default, it displays content from a Sample Project that demonstrates Kentico Cloud features and best practices. This fully featured project contains marketing content for Dancing Goat – an imaginary chain of coffee shops. If you don't have your own Sample Project, any admin of a Kentico Cloud subscription can generate one.
 
-<b>Application Setup</b> <br>
+##<b>Application Setup</b> <br>
 Install Android Studio and the latest Android SDK tools.<br>
 Clone or download the repository into a chosen folder.<br>
 Open the project in the IDE, let it install all the necessary libraries and tools.<br>
 Create a virtual TV device, for example with specifications 1080p, and Android API 25.<br>
 Run the project witht the created TV device as a specified deployment target.<br>
 
-<b>Content Administration</b><br>
+##<b>Content Administration</b><br>
 Navigate to https://app.kenticocloud.com in your browser.<br>
 Sign in with your credentials.<br>
 Manage content in the content administration interface of your sample project.<br>
 You can learn more about content editing with Kentico Cloud in the documentation.<br>
 
-<b>Content Delivery</b><br>
+##<b>Content Delivery</b><br>
 In order to utilize your own project instead of the default one, you need to change the KENTICO_CLOUD_PROJECT_ID constant in the AppConfig.java file to the ID of your own project.<br>
 The project ID can be found on Kentico Cloud by navigating to Project Settings and then to API Keys
 Application Installation<br>
