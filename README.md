@@ -1,8 +1,11 @@
 # Android Tv Live Stream
 
-Contact: <b>Saad</b><br>
+Developer: <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
-Number: +8801904654712<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
 
 A sample app for Android TV written in Java that utilizes the KenticoCloudDeliveryJavaRxSDK to manage and retrieve content You can register your account for free at https://app.kenticocloud.com.
 
