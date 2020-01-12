@@ -1,4 +1,4 @@
-# AndroidTvLiveStream
+# Android Tv Live Stream
 
 Contact: Saad
 Email: saad@triangeltech.com
@@ -8,12 +8,13 @@ A sample app for Android TV written in Java that utilizes the KenticoCloudDelive
 
 By default, it displays content from a Sample Project that demonstrates Kentico Cloud features and best practices. This fully featured project contains marketing content for Dancing Goat – an imaginary chain of coffee shops. If you don't have your own Sample Project, any admin of a Kentico Cloud subscription can generate one.
 
-<b>Application Setup</b> \n
-Install Android Studio and the latest Android SDK tools.
-Clone or download the repository into a chosen folder.
-Open the project in the IDE, let it install all the necessary libraries and tools.
-Create a virtual TV device, for example with specifications 1080p, and Android API 25.
-Run the project witht the created TV device as a specified deployment target.
+<b>Application Setup</b> <br>
+Install Android Studio and the latest Android SDK tools.<br>
+Clone or download the repository into a chosen folder.<br>
+Open the project in the IDE, let it install all the necessary libraries and tools.<br>
+Create a virtual TV device, for example with specifications 1080p, and Android API 25.<br>
+Run the project witht the created TV device as a specified deployment target.<br>
+
 Content Administration
 Navigate to https://app.kenticocloud.com in your browser.
 Sign in with your credentials.
