@@ -44,5 +44,5 @@ adb connect <TV_IP_ADDRESS><br>
 
 adb install <PATH_TO_.APK_FILE><br>
 
-The TV has to be connected to the Internet in order to retrieve content from Cloud..
+The TV has to be connected to the Internet in order to retrieve content from Cloud.
 
