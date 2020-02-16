@@ -22,7 +22,7 @@ Open the project in the IDE, let it install all the necessary libraries and tool
 Create a virtual TV device, for example with specifications 1080p, and Android API 25.<br>
 Run the project witht the created TV device as a specified deployment target.<br>
 
-## Content Administration ..........
+## Content Administration .........
 Navigate to https://app.kenticocloud.com in your browser<br>
 Sign in with your credentials.<br>
 Manage content in the content administration interface of your sample project.<br>
