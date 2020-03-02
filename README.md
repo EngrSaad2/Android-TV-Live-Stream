@@ -26,7 +26,7 @@ Run the project witht the created TV device as a specified deployment target.<br
 Navigate to https://app.kenticocloud.com in your browser<br>
 Sign in with your credentials.<br>
 Manage content in the content administration interface of your sample project.<br>
-You can learn more about content editing with Kentico Cloud in the documentation.<br>
+You can learn more about content editing with Kentico Cloud in the documentation..<br>
 
 ## Content Delivery
 In order to utilize your own project instead of the default one, you need to change the KENTICO_CLOUD_PROJECT_ID constant in the AppConfig.java file to the ID of your own project.<br>
