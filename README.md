@@ -36,7 +36,7 @@ Building the project in Android Studio creates an .apk file, located in app\buil
 
 The file can be used to install the application on a TV, using the Android Debug Bridge.<br>
 
-The Developer Mode and Allow USB debugging modes have to be turned on the TV.<br>
+The Developer Mode and Allow USB debugging modes have to be turned on the TV<br>
 
 #### By connecting the laptop and the TV with a USB cable and having both of them on the same network, one can install the app:
 
