@@ -17,7 +17,7 @@ By default, it displays content from a Sample Project that demonstrates Kentico 
 
 ## Application Setup 
 Install Android Studio and the latest Android SDK tools.<br>
-Clone or download the repository into a chosen folder..<br>
+Clone or download the repository into a chosen folder.<br>
 Open the project in the IDE, let it install all the necessary libraries and tools.<br>
 Create a virtual TV device, for example with specifications 1080p, and Android API 25.<br>
 Run the project witht the created TV device as a specified deployment target<br>
