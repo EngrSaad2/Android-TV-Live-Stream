@@ -34,7 +34,7 @@ The project ID can be found on Kentico Cloud by navigating to Project Settings a
 Application Installation<br>
 Building the project in Android Studio creates an .apk file, located in app\build\outputs\apk\debug.<br>
 
-The file can be used to install the application on a TV, using the Android Debug Bridge.<br>
+The file can be used to install the application on a TV, using the Android Debug Bridge..<br>
 
 The Developer Mode and Allow USB debugging modes have to be turned on the TV<br>
 
