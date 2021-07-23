@@ -24,7 +24,7 @@ Create a virtual TV device, for example with specifications 1080p, and Android A
 Run the project witht the created TV device as a specified deployment target<br>
 
 ## Content Administration 
-Navigate to https://app.kenticocloud.com in your browser...<br>
+Navigate to https://app.kenticocloud.com in your browser.<br>
 Sign in with your credentials.<br>
 Manage content in the content administration interface of your sample project.<br>
 You can learn more about content editing with Kentico Cloud in the documentation.<br>
