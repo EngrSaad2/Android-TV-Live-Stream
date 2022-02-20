@@ -1,5 +1,3 @@
-
-
 package com.saad.tvapp;
 
 import android.graphics.drawable.Drawable;
