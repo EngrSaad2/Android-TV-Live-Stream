@@ -1,5 +1,5 @@
 package com.saad.tvapp;
-..........................................................
+.........................................................
 import android.graphics.drawable.Drawable;
 import android.support.v17.leanback.widget.ImageCardView;
 import android.support.v17.leanback.widget.Presenter;
