@@ -1,5 +1,4 @@
 package com.saad.tvapp;
-
 import android.app.Activity;
 import android.os.Bundle;
 
