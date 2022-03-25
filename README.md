@@ -8,7 +8,7 @@
   .
   <a href="https://www.codewars.com/users/EngrSaad2">
     <img src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="Saad's Codewars Profile" height="30" width="30">
-  </a>.
+  </a>
 
   <a href="https://dev.to/engrsaad" style="display: inline;">
     <img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" alt="Saad's DEV Profile" height="30" width="30">
