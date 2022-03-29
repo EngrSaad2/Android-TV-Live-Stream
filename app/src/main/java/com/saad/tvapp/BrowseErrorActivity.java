@@ -1,5 +1,4 @@
 package com.saad.tvapp;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.os.Bundle;
