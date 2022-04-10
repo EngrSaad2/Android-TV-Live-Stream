@@ -6,7 +6,7 @@ import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.ViewGroup;
 
-import com.bumptech.glide.Glide;
+import com.bumptech.glide.Glide; 
 
 /*
  * A CardPresenter is used to generate Views and bind Objects to them on demand.
